@@ -1,0 +1,3 @@
+server command: grunt server
+
+tuto url: https://old.romaricpascal.is/writing-about/reloading-magic-with-grunt-and-livereload/
